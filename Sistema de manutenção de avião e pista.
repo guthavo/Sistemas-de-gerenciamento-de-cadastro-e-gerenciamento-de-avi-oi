@@ -30,8 +30,8 @@ Branco......... WHITE........ 15
 #include <time.h>
 #define MAX 5
 
-// ALuno : gustavo rodrigues almeida
-// Matricula: uc18100160
+// Progamador : gustavo rodrigues almeida
+
 
 //structs
 struct Aviao {
